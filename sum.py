@@ -1,5 +1,5 @@
 def suma(a, b):
-  return a + a
+  return a + b
   
 print('Ingresa un número a y b y retornamos la suma!')
 
